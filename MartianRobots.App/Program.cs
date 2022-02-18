@@ -1,0 +1,3 @@
+﻿using MartianRobots;
+
+Startup.Run();
